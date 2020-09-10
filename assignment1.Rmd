@@ -1,6 +1,66 @@
 ---
 title: "Assignment 1"
-author: "Liheng Chen"
-date: "9/8/2020"
+author: "KeXin Ye"
+date: "9/10/2020"
 output: html_document
 ---
+<style type="text/css">
+
+h1.title {
+  font-size: 38px;
+  color: black;
+  text-align: center;
+}
+h4.author { 
+    font-size: 28px;
+  font-family: "Times New Roman", Times, serif;
+  color: black;
+  text-align: center;
+}
+h4.date { 
+  font-size: 28px;
+  font-family: "Times New Roman", Times, serif;
+  color: black;
+  text-align: center;
+}
+</style>
+
+<br>
+
+<font size = 5><center>[Github Profile Page](http://github.com/KenChen1998)</center></font>
+
+<br>
+
+<center><h2>My Goal For HUDK4050<h2></center>
+* <font size = 4>Learning R</font>
+* <font size = 4>Learning data mining</font>
+
+<br>
+
+<center><h2>Video Review<h2></center>
+<font size = 4>I've learned a lot from this series of videoes.</font>
+
+<br>
+<br>
+
+<center><h2>Table<h2></center>
+|Skill|Score|
+|:-:|:-:|
+|Code Writing|7|
+|Problem Analysis|7|
+|The teacher is amazing!|This class is great!|
+
+<style>
+td {
+  font-size: 15px
+}
+</style>
+
+<br>
+
+<center><h2>This is how I'm feeling about this semester<h2></center>
+<div align = center>![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1599709854639&di=ecedf96de3f054cecdc83f8a967883d3&imgtype=0&src=http%3A%2F%2Fimg.mp.itc.cn%2Fupload%2F20170422%2F4ff4a1691ab3454093e793b4485ff64b.jpeg){width=300px}</div>
+
+
+
+
